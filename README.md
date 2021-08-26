@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
- - My student registration number is IT20010058
+- My student registration number is IT20010058
 
 - My git hub user name is HashiniJayasinghe JAHNMDJM
 <!---
