@@ -6,7 +6,7 @@
 - 
 - My student registration number is IT20010058
 
-- My git hub user name is HashiniJayasinghe JAHNMDJM
+- My git hub user name is HashiniJayasinghe99
 <!---
 JAHNMDJM/JAHNMDJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
